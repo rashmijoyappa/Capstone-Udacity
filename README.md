@@ -16,3 +16,5 @@ cd to the client folder: cd client
 Install dependencies: npm install
 Run the client application: npm run start
 This should start a development server with the React application that will interact with the serverless TODO application.
+
+![image](https://user-images.githubusercontent.com/47942334/124133386-68edc400-da9f-11eb-8fdd-b704607b6c7e.png)
